@@ -17,7 +17,7 @@ void productLarge(int *arr1, int len1, int *arr2, int len2, int *result, int len
 
 int main(){
 	int isNegative;
-	// Gioi han cua gia tri nhap la 300 ky tu
+	// Gioi han cua gia tri nhap la 300 ky tu (có thể chỉnh sao cho lên đến hơn 2 ty ky tu neu muon)
 	const int MAX=300;
 	char str_num1[MAX], str_num2[MAX];
 	
